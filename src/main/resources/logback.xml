@@ -13,7 +13,7 @@
     <logger name="org.apache" level="WARN"/>
     <logger name="com.jayway" level="WARN"/>
     <logger name="org.jboss.logging" level="WARN"/>
-    <logger name="com.akefirad" level="DEBUG"/>
+    <logger name="com.akefirad" level="INFO"/>
 
     <root>
         <level value="WARNING"/>
